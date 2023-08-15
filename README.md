@@ -1,4 +1,6 @@
-# flutter_remote
+# CONTROL REMOTE TV
+
+Um controlle remoto feito em dart
 
 A Flutter app that controls your TV, and other devices on the future. Be aware that the remote control will only work with LG SmartTV, but with a quick search on the internet, you can replace the LG IR codes with the codes of your own TV)
 
